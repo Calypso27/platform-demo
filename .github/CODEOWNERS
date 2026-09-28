@@ -1,14 +1,14 @@
 # Default owner
-* @GitFabien
+* @Calypso27
 
 # Platform configuration
-/.github/ @GitFabien
+/.github/ @Calypso27
 
 # Application code
-/src/ @GitFabien
+/src/ @Calypso27
 
 # Tests
-/test/ @GitFabien
+/test/ @Calypso27
 
 # Deployment configuration
-/deploy/ @GitFabien
+/deploy/ @Calypso27
